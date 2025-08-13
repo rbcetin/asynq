@@ -7,7 +7,6 @@ package asynq
 import (
 	"crypto/sha256"
 	"fmt"
-	"github.com/google/uuid"
 	"sort"
 	"sync"
 	"time"
